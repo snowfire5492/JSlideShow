@@ -350,9 +350,6 @@ public class JSlideshow extends JFrame implements ActionListener{
 	}
 	
 	
-	
-
-	
 	public static void main(String[] args){
 		SwingUtilities.invokeLater(() ->
 		new JSlideshow()
